@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">clova_sample_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_css">CssActivity</string>
+    "
+    <string-array name="css_lang_spinner">
+
+        <item>mijin(한국어)</item>
+        <item>jinho(한국어)</item>
+        <item>clara(영어)</item>
+        <item>matt(영어)</item>
+        <item>shinji(일본어)</item>
+        <item>meimei(중국어)</item>
+        <item>liangliang(중국어)</item>
+        <item>jose(스페인어)</item>
+        <item>carmen(스페인어)</item>
+
+    </string-array>
+    <string name="title_activity_csr">CsrActivity</string>"
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_world">Hello world!</string>
+    <string name="str_start">말하기</string>
+    <string name="str_stop">중지</string>
+
+    <item name="partialResult" type="id" />
+    <item name="finalResult" type="id" />
+    <item name="endPointDetected" type="id" />
+    <item name="clientReady" type="id" />
+    <item name="clientInactive" type="id" />
+    <item name="audioRecording" type="id" />
+    <item name="recognitionError" type="id" />
+    <item name="getAuthorization" type="id" />
+
+    <item name="endPointDetectTypeSelected" type="id" />
+    <string name="title_activity_nmt">NmtActivity</string>
+
+    <string-array name="csr_lang_source_spinner">
+
+        <item>한국어</item>
+        <item>영어</item>
+        <item>중국어(간체)</item>
+        <item>중국어(번체)</item>
+        <item>프랑스어</item>
+        <item>스페인어</item>
+        <item>베트남어</item>
+        <item>태국어</item>
+
+    </string-array>
+
+    <string-array name="csr_lang_target_spinner">
+
+        <item>영어</item>
+        <item>중국어(간체)</item>
+        <item>중국어(번체)</item>
+        <item>프랑스어</item>
+        <item>스페인어</item>
+        <item>베트남어</item>
+        <item>태국어</item>
+
+    </string-array>
+
+    <string-array name="nmt_lang_source_spinner">
+        <item>한국어</item>
+    </string-array>
+
+    <string-array name="nmt_lang_target_spinner">
+
+        <item>영어</item>
+        <item>일본어</item>
+        <item>중국어(간체)</item>
+        <item>스페인어</item>
+
+    </string-array>
+    <string name="title_activity_nmt2">NmtActivity2</string>
+    <string name="title_activity_voice_chat_bot">VoiceChatBotActivity</string>
+
+</resources>
